@@ -13,8 +13,11 @@ F = (A+B)C'
 4- Save and Upload your circuit Digital design file to the repo like **Assignment5.dig**. 
 
 ### Screenshots
+![assignment5gif](https://github.com/Gulseogultegin/Assignment/assets/147322685/0fe81e26-5111-4fd4-90c4-7f86f2f5d3f7)
 
-*Insert Screenshots here*
+![truth table](https://github.com/Gulseogultegin/Assignment/assets/147322685/3560b85b-901d-413a-b714-289169a2575e)
+
+
 
 ### Equipments List
 
