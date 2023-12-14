@@ -9,8 +9,10 @@
 3- Save and Upload your circuit Digital design file to the repo like **Assignment5.dig**. 
 
 ### Screenshots
+![javaw_swmGe4sTQK](https://github.com/abbaselmas/Assignment/assets/147322685/346ed460-011b-491b-ab6a-60715daf4f94)
+![Ekran görüntüsü 2023-12-14 215010](https://github.com/abbaselmas/Assignment/assets/147322685/8b6b15eb-8250-485e-a59f-cb7af73cea21)
 
-*Insert Screenshots here*
+
 
 ### Equipments List
 
